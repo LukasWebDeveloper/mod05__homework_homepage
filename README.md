@@ -3,12 +3,13 @@
 ## Demo
 https://lukaswebdeveloper.github.io/mod05__homepage/
 
-### Screenshot share
-![Screenshot share.png](img/screenshootShare.png)
 
 ## Screenshot site
 
 ![ScreenshotSite](img/screenshotSite.png)
+
+### Screenshot share
+![Screenshot share.png](img/screenshootShare.png)
 
 ## Technology used in this project
 - HTML
