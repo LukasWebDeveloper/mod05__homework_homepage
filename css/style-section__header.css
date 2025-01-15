@@ -1,0 +1,79 @@
+.header {
+   display: block;
+   position: relative;
+   padding: 0.5% 0;
+   color: white;
+   background-color: rgb(174, 103, 59);
+}
+
+.block__titleSite {
+   display: block;
+   text-align: center;
+   max-width: 200px;
+   margin: 0 auto;
+   background-color: #d3c25f;
+   color: rgb(235, 235, 235);
+}
+
+.header__logo {
+   display: block;
+   position:absolute;
+   padding: 0 0.4%;
+   height: 50px;
+}
+
+.block__titleSite {
+   
+   margin-top: 0;
+}
+.block__smallPartTitleSite {
+   color: rgb(174, 103, 59);
+}
+.button__logo {
+   padding: 0.5%;
+   margin: 0.5%;
+   border-radius: 5px;
+   font-size: 10px;
+}
+
+.header__descriptionPartSite {
+   text-align: center;
+   padding: 0 1%;
+   text-shadow: 2px 2px 4px black;
+}
+
+.navigation__navigationSite {
+   display: flex;
+   justify-content: space-evenly;
+   position: relative;
+   padding: 0 2%;
+   flex-direction: row;
+   line-height: 2.5;
+   margin-bottom: auto;
+   background-color: #d3c25f;
+   font-size: 12px;
+   list-style: none;
+}
+
+.navigationLink {
+   display:block;
+   text-decoration: none;
+   color: rgb(26, 86, 164);
+   text-shadow: 0.5px 0.5px 1px black;
+   
+}
+
+.navigationLink:visited {
+   text-decoration: none;
+   color: rgb(26, 86, 164);
+   /* outline: 1px solid rgb(255, 47, 252); */
+   
+}
+
+.navigationLink:hover {
+   color: rgb(174, 103, 59);
+}
+
+.navigationLink:active {
+   color: rgb(13, 190, 199);
+}

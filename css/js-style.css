@@ -1,0 +1,7 @@
+.js-header__blockLogo--possition {
+    display: block;
+    position:absolute;
+    padding: 0 0.5%;
+    height: 50px;
+    right: 0;
+}

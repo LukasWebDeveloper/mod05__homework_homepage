@@ -1,0 +1,25 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+:focus {
+    /* border: 1px solid black;  */
+    outline-color: black;
+}
+
+.body {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(250, 252, 235);
+    font-family: 'Noticia Text', sans-serif;
+}
+
+.footer {
+   display: flex;
+    background-color: #272727;
+}
+
