@@ -13,29 +13,29 @@
    line-height: 0.3;
 }
 
-.footer__contact--phoneAuthorSite {
+.contact__linkPhone {
    text-decoration: none;
    color: rgb(221, 221, 221);
 }
 
-.footer__contact--phoneAuthorSite:hover {
+.contact__linkPhone:hover {
    color: rgb(88, 162, 189);
 }
 
-.footer__contact--phoneAuthorSite:visited {
+.contact__linkPhone:visited {
    color: rgb(219, 55, 18);
 }
 
-.footer__contact--mailAuthorSite {
+.contact__linkMailAuthorSite {
    text-decoration: none;
    color: rgb(221, 221, 221);
 }
 
-.footer__contact--mailAuthorSite:hover {
+.contact__linkMailAuthorSite:hover {
    color: rgb(88, 162, 189);
 }
 
-.footer__contact--mailAuthorSite:visited {
+.contact__linkMailAuthorSite:visited {
    color: rgb(219, 55, 18);
 }
 
