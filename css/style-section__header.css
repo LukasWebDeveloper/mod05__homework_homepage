@@ -55,7 +55,7 @@
    list-style: none;
 }
 
-.navigationLink {
+.navigation__link {
    display:block;
    text-decoration: none;
    color: rgb(26, 86, 164);

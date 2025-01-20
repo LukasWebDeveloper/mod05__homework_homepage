@@ -1,12 +1,12 @@
 .section__footer {
-   padding: 0 1%;
    min-width: 100%;
 }
 
 .footer__contact {
+   display: block;
    min-width: 30%;
-   margin: 5%;
    padding: 0.1% 30px;
+   padding-left: 1%;
    text-align: justify;
    font-size: 13px;
    color: rgb(221, 221, 221);
@@ -52,6 +52,8 @@
 }
 
 .footer__symbolCopyright {
+   display: block;
+   margin: 1%;
    text-align: center;
    color: white;
    line-height: 2;

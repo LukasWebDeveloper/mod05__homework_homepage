@@ -21,7 +21,7 @@
    padding: 0 2%;
 }
 
-.main__tableBonsai--caption {
+.tableBonsai__caption {
    background-color: #2c2c2c;
    color: white;
    line-height: 2;
@@ -39,15 +39,15 @@
    text-align: center;
 }
 
-.main__tableBonsai--headColumn {
+.tableBonsai__headColumn {
    background-color: #ffffff;
 }
 
-.main__tableBonsai--headRow {
+.tableBonsai__headRow {
    background-color: #ababab;
 }
 
-.main__tableBonsai--element {
+.tableBonsai__element {
    font-size: 12px;
    border: 1px solid black;
    line-height: 1.8;
